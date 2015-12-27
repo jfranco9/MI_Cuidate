@@ -1,0 +1,96 @@
+
+
+Hipótesis Trabajadas.-
+
+H1: Nosotros creemos que si los cuidadores tuvieran una opción donde pueda ver información sobre el cuidado a sus pacientes tendrán menos dudas y se sentirán más seguras sobre su acciones y sobre ellos mismos. Sabremos que es cierto cuando ellos accedan a la información y con esto disminuya su incertidumbre.
+
+Se mostró la opción a 3 usuarios.
+
+Martha Gordillo.- Comentó que sería importante que la aplicación debería contemplar la opción de realizar preguntas a los Expertos.
+Con respecto a la opción de leer las experiencias de otros cuidadores le parece muy útil, ya que ella cuando se enteró de la noticia tuvo muchas dudas que no sabia como disiparlas.
+Sra. Yanina.- Considera que compartir su experiencia es de ayuda para otras madres que cumplen su rol de cuidadora, al momento ella lo hace en el Hospital que asiste para las terapias de Michael su hijo.
+Sra. Carmen.- Considera que obtener información de otros cuidadores puede ser de gran apoyo para las madres Cuidadoras, mucho más cuando recién comienzan el proceso de adaptación de la enfermedad de sus hijos en este caso. La sra.Carmen asiste a un grupo de cuidadores, me dio opcion de ir a su grupo para tener mas retroalimentación de otros cuidadores, el grupo al que asiste la sra. Carmen contiene cuidadores que tienen hijos con diferentes dolencias.
+
+Todas fueron entrevistadas en el Hospital de niño Icaza Bustamante, a excepción de la Sra. Martha que nos recibió en primera instancia en su hogar.  
+
+Todas fueron consultadas además porque asistían al hospital a realizar las terapias, la respuesta que se obtuvo fue que en el hospital pueden realizar el chequeo integral de sus hijos (Salud y Realizar terapia de rehabilitacion), pero que seria importante tener la opcion de alguna Fundacion cerca de casa para las terapias físicas, ya que en el Hospital solo las reciben una vez a la semana o cada quince días.
+ 
+
+H3: Nosotros creemos que si los voluntarios tienen una opción de publicar consejos a través de un medio tecnológico para los cuidadores, ellos sentirán que son de más ayuda para estos. Sabremos que esto es verdad cuando los voluntarios sientan satisfacción al publicar sus consejos.
+
+Se validó con la terapista Fisica de KinderZentrum Andrea Andrade, las opciones planteadas le parecen las correctas, pero debemos mejorar la interfaz de la página web.
+
+Estamos en la búsqueda de otras Fundaciones que nos ayuden a probar la plataforma y validar si estarían dispuestos a ingresar consejos para los Cuidadores, de forma voluntaria sin recibir ninguna remuneración a cambio, solo colocar a su Fundación con una buena puntuación dentro de las aplicacion para que incremente el número de Pacientes en su Fundación.
+
+En la presentación Final del Sprint.en la que estuvo invitada la Ingeniera Echeverría.
+
+Se obtuvo la siguiente retroalimentación;
+
+La aplicación se ve tosca, un tanto feita. Pero eso se puede arreglar (arréglenlo para el martes). La sugerencia es que queden solo dos opciones en la aplicación celular: Ir con expertos e Conectarme con otras madres. En ir con expertos podrían ir sus ideas de “Preguntar a un experto” y “Localizar un experto”. La opción de localizar un experto debe permitir ver un mapa donde se observen las opciones cerca de acuerdo a lo que yo necesito. La de pregunta se me ocurre que también permita subir audio e imágenes (no solo tipear).
+ 
+En la opción de conectarse con otras madres, una vez más lo ideal es que me saliera la ubicación de estas madres, de pronto no de forma exacta pero si de forma aproximada, para ver si hay gente cerca mio. Que información necesita una madre sobre otra para contactarla? Esta aplicación podría mostrarme también grupos de madres que están conversando de un cierto tema (tipo los grupos de whatsapp) para yo solicitar que me agreguen. Esta opción debería mostrarme el perfil de otras madres y permitir a las madres crear como groups de conversación en whatsapp. Si su aplicación se conecta con whastapp debería poderme dar info de últimos chats, ultimas preguntas. Son solo ideas, pero es para que exploren el factor wow, el factor … uy, eso no existe, que interesante!
+ 
+El otro tema es la relevancia de que la aplicación conozca el perfil del usuario.  Pilas con eso.
+ 
+Para el lunes entonces necesito que tengan super definido cómo va a trabajar la aplicación con las nuevas ideas que les he dado. Para el jueves deben de haber avanzado y estar en capacidad de mostrar esos avances.
+
+De esta retroalimentacion se creó una nueva Hipótesis.
+
+
+H7: Nosotros creemos que si los cuidadores tienen la oportunidad de crear grupos donde puedan reunirse con otros cuidadores y contar sus experiencias y escuchar las experiencias de otros cuidadores, con esta opcion no sentirán que son las unicas personas que tienen que cimplir este rol y les ayudara a superar cada etapa con un apoyo.
+
+De esta hipótesis se desarrollaron 3 prototipos que se encuentran en el archivo ideas -Grupos.docx
+
+Adicional a la hipótesis, se agregaran otras opciones para contar las experiencias de los cuidadores por medio de un audio, u imágenes.
+
+Debemos mejorar la interfaz de la aplicación móvil.
+
+
+Como conclusión en este Sprint, se agregaron 3 opciones a la primera versión del proyecto.
+Buscar grupos de apoyo
+Crear Grupos de apoyo
+Subir audios o imágenes, contando las experiencias de los cuidadores.
+
+Estas opciones no cambian la idea principal del proyecto que es la disminuir la incertidumbre de los Cuidadores pero si agrega opciones que deben ser validadas por los usuarios, así como investigar sobre como seleccionar los grupos a los cuales los cuidadores estarían interesados en asistir.
+En la opción de las experiencias, investigar las limitaciones del hardware en grabar archivos, para luego subirlos a la Internet.
+
+hipótesis/historias de usuario para el Sprint 2.-
+Para este Sprint probaremos las hipótesis H4 y H5
+
+H4: Nosotros creemos que si los cuidadores publican sus experiencias para otro cuidadores ellos podrán desahogarse.
+Sabremos que es cierto cuando ellos puedan liberar la presión y la angustia que sienten al hacer sus publicaciones.
+
+H5: Nosotros creemos que si los cuidadores pueden leer las experiencias de otros cuidadores ellos podrán sentirse identificados y adoptar una mejor actitud.
+
+Sabremos que es cierto cuando ellos al leer las experiencias puedan quitarse un poco las preocupaciones que tienen.
+
+
+Estimación de Product backlog  Sprint1 vs Sprint2.-
+Luego de finalizar el sprint 1 nuestra estimación para el sprint 2 cambió ya que durante el 1 surgieron nuevas hipótesis y algunas las descartamos debido a la poca utilidad o disposición mostrada por los usuarios con las opciones.
+También cambió el concepto de unas hipótesis debido a que aumentaron las opción en la prueba de estas, por ejemplo el compartir las experiencias ya no solo por texto sino también por  grabaciones de audio.
+
+
+
+Sprint 2
+
+Hipótesis a trabajar.
+H4: Nosotros creemos que si los cuidadores publican sus experiencias para otro cuidadores ellos podrán desahogarse. Sabremos que es cierto cuando ellos puedan liberar la presión y la angustia que sienten al hacer sus publicaciones.
+
+H5: Nosotros creemos que si los cuidadores pueden leer las experiencias de otros cuidadores ellos podrán sentirse identificados y adoptar una mejor actitud. Sabremos que es cierto cuando ellos al leer las experiencias puedan quitarse un poco las preocupaciones que tienen.
+
+H7: Nosotros creemos que si los cuidadores tienen la oportunidad de crear grupos donde puedan reunirse con otros cuidadores y contar sus experiencias y escuchar las experiencias de otros cuidadores, con esta opcion no sentirán que son las unicas personas que tienen que cimplir este rol y les ayudara a superar cada etapa con un apoyo.
+
+H8: Nosotros creemos que si los cuidadores la opción de encontrar otros cuidadores cercanos por medio de la localización en un mapa podrán entablar relaciones donde puedan apoyarse unos a otros por medio de consejos, chat o reuniones presenciales.
+
+
+Meta del Sprint 2:
+
+Comprobar que los medios que va a brindar la aplicación para contar las experiencias (audio - imágenes- texto) brinden las facilidades, que los motiven la App, como ayuda a las personas que viven su misma situación.
+ Los usuarios puedan escuchar - leer o ver las experiencias compartidas por otros cuidadores de una forma rápida y sencilla. El objetivo final no será que lean todas o escuchen todas las experiencias, sino desde que ingresen a la aplicación, desde ese momento en adelante, algo similar a un blog, cuando un usuario lo empieza a leer no siempre lo hace desde que inició sino desde el momento que lo descubrió, luego se le hace un hábito visitarlo para leer que tiene de nuevo. 
+Validar la opción de crear grupos de apoyo, sea fácil de usar, y cual es la mejor opcion de busqueda para buscar apoyo entre cuidadores, por distancia, por dolencia, por tratamientos en común, entre otros.
+
+
+
+Horas de Trabajo:
+En los horarios de trabajo solo hay un cambio, los miércoles se irá al hospital en la mañana los demás días tanto para trabajo grupal como individual serán iguales para el sprint 2 ya que fueron bien planificados en el sprint 1, tomando en cuentas los horarios de nuestros trabajos y los de clases.
+
